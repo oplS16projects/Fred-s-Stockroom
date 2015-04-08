@@ -34,6 +34,9 @@
 
 1. [GraphViewer](https://docs.google.com/presentation/d/1OdVYOZcucnPFPdU1kw9rL4sjYN_XKly8ttbVqjh8Rgo/edit?usp=sharing)
 
+1. [Keyventure!](https://docs.google.com/presentation/d/1rJbENX2HMqLwK012Huu0krBOsf2r1Fk0m8GWdhNJ_0g/edit?usp=sharing)
+
+1. [Scalable virtual audio launchpad](https://prezi.com/mpcphsxs2zz_/launchpad-simulator/?utm_campaign=share&utm_medium=copy)
 
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
