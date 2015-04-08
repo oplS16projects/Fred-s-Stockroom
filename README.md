@@ -28,6 +28,8 @@
 
 1. [Henriette the Witch](https://docs.google.com/presentation/d/1qMK55LT5UqkX7PXKtgqRJgoOyTwPiBrPWBk81P-sovc/edit?usp=sharing)
 
+### Friday
+
 1. [Graph-ical Emulation Program (a.k.a. GrEP)](https://docs.google.com/presentation/d/1-gDy_dI0RKrSQPWZTt7XP3W-vjw0YBXTj1qiQGvo1AM/edit?usp=sharing)
 
 1. [The Sherman Keyboard](https://docs.google.com/presentation/d/1FuxFHALw1LRU1OaHun4YQsiwaE7rN1SE4YsC0nTrCWk/edit?usp=sharing)
@@ -37,6 +39,10 @@
 1. [Keyventure!](https://docs.google.com/presentation/d/1rJbENX2HMqLwK012Huu0krBOsf2r1Fk0m8GWdhNJ_0g/edit?usp=sharing)
 
 1. [Scalable virtual audio launchpad](https://prezi.com/mpcphsxs2zz_/launchpad-simulator/?utm_campaign=share&utm_medium=copy)
+
+1. [Tune Traveler](https://docs.google.com/presentation/d/1PYefSgNbK7gegQ3ElBShIW0UP9FfZPCF9ozklky5KL0/pub?start=false&loop=false&delayms=3000)
+
+1. [Graphical Presentation of Information using Racket & It’s Libraries](https://docs.google.com/presentation/d/19blS9WNokbAROqITlf5-56I4S0vMbo9hCx1VQxSuPZs/edit?usp=sharing)
 
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
