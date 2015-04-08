@@ -30,8 +30,6 @@
 
 1. [Graph-ical Emulation Program (a.k.a. GrEP)](https://docs.google.com/presentation/d/1-gDy_dI0RKrSQPWZTt7XP3W-vjw0YBXTj1qiQGvo1AM/edit?usp=sharing)
 
-1. [2D Top-Down Game](https://docs.google.com/presentation/d/1d_P1R_vQh7qjO16h9aUuUlwRHRxbdTPqipOFfdZUeWE/edit?usp=sharing)
-
 1. [The Sherman Keyboard](https://docs.google.com/presentation/d/1FuxFHALw1LRU1OaHun4YQsiwaE7rN1SE4YsC0nTrCWk/edit?usp=sharing)
 
 1. [GraphViewer](https://docs.google.com/presentation/d/1OdVYOZcucnPFPdU1kw9rL4sjYN_XKly8ttbVqjh8Rgo/edit?usp=sharing)
