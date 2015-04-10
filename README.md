@@ -44,6 +44,8 @@
 
 1. [Graphical Presentation of Information using Racket & It’s Libraries](https://docs.google.com/presentation/d/19blS9WNokbAROqITlf5-56I4S0vMbo9hCx1VQxSuPZs/edit?usp=sharing)
 
+2. [Higher Or Lower](https://docs.google.com/presentation/d/1DuJZvR9CBHyPtj7ZNsOy1agd6URNvd02625h4xW4jlM/pub?start=false&loop=false&delayms=60000&slide=id.p) 
+
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
 [markdown]: https://help.github.com/articles/markdown-basics/
