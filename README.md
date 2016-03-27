@@ -77,6 +77,12 @@ What exactly will be turned in on this day?
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
+**Additional instructions for teams of three:** 
+* Remember that you must have prior written permission to work in groups of three (specifically, an approved `FP3` team declaration submission).
+* The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
+* The team lead has full partner implementation responsibilities also.
+* Specifically identify who is team lead.
+
 ### Susan Scheme
 will write the....
 
