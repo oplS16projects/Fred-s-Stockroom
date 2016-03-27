@@ -1,4 +1,7 @@
 # FP4-proposal
+
+***Students: this document is actively being revised. All dates and info are subject to change.***
+
 Project Proposal is due Mon 2016-04-04 at 8am
 
 Produce a plan for your final project, and prepare an in-class presentation.
@@ -11,9 +14,10 @@ Teams will submit ONE written proposal, with sections that each member has done 
 
 You must start using GitHub collaboratively from this point forward. 
 
-This means that each person must author a portion of the proposal document, by using her/his own GitHub account to make changes to your clone of this document. One team member clones this repository, and then the other(s) can issue pull requests to that clone to add their contributions.
+Instructions to: create a new repo as part of the `oplS16projects` organization; add your teammates to it; make sure everyone contributes to your new `README.md` file which is your proposal.
 
-You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.
+**Overall guidance:** *You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.*
+
 The proposal should be no longer than necessary, but long enough to include critical detail. Three pages is appropriate. Diagrams are welcome. 
 
 Below is a template proposal report.
