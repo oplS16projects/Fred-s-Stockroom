@@ -1,16 +1,22 @@
 # FP4-proposal
-Project Proposal is due 2015-04-08 at 8am
+Project Proposal is due Mon 2016-04-04 at 8am
 
 Produce a plan for your final project, and prepare an in-class presentation.
 
-Ask questions, as always, [on piazza!][piazza]
+Ask questions, as always, [on our discussion forum!][forum]
 
 ## Written Proposal Instructions
 
-Teams will submit ONE written proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be on github, as a pull request of this very file. Below is a template proposal report.
+Teams will submit ONE written proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be on github, as a pull request of this very file. 
+
+You must start using GitHub collaboratively from this point forward. 
+
+This means that each person must author a portion of the proposal document, by using her/his own GitHub account to make changes to your clone of this document. One team member clones this repository, and then the other(s) can issue pull requests to that clone to add their contributions.
 
 You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.
 The proposal should be no longer than necessary, but long enough to include critical detail. Three pages is appropriate. Diagrams are welcome. 
+
+Below is a template proposal report.
 
 Remember, you can do some neat [formatting things with Markdown.][markdown]
 
@@ -77,5 +83,5 @@ will work on...
 insert your google presentation public link here, so with one click it will open up in the browser and you can present.
 
 <!-- Links -->
-[piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=453
+[forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
 [markdown]: https://help.github.com/articles/markdown-basics/
