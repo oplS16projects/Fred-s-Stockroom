@@ -90,12 +90,15 @@ will write the....
 will work on...
 
 ## Proposal Presentations
-Create your 2- to 3-slide presentation in [Google Slides][https://slides.google.com]. Then, import in into one of the two slide decks:
+Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import in into one of the two slide decks:
 
-[Martin section][https://docs.google.com/presentation/d/1EqE432gl3Narx8a2vZQKvchEmoYqMkzR3SrHFr5LiAg]
-[Sherman section][https://docs.google.com/presentation/d/1T7uZLQLm-umosUfEK9cp4VNGjUm8SUN1DCVTzlGvr2Q]
+[Martin section][martinslides]
+[Sherman section][shermanslides]
 
 
 <!-- Links -->
 [forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
 [markdown]: https://help.github.com/articles/markdown-basics/
+[gslides]:https://slides.google.com
+[martinslides]:https://docs.google.com/presentation/d/1EqE432gl3Narx8a2vZQKvchEmoYqMkzR3SrHFr5LiAg
+[shermanslides]:https://docs.google.com/presentation/d/1T7uZLQLm-umosUfEK9cp4VNGjUm8SUN1DCVTzlGvr2Q
