@@ -90,10 +90,10 @@ will write the....
 will work on...
 
 ## Proposal Presentations
-Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import in into one of the two slide decks:
+Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import them into one of the two slide decks:
 
-[Martin section][martinslides]
-[Sherman section][shermanslides]
+* [Martin section][martinslides]
+* [Sherman section][shermanslides]
 
 
 <!-- Links -->
