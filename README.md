@@ -89,8 +89,12 @@ will write the....
 ### Leonard Lambda
 will work on...
 
-## Proposal Presentation Link
-insert your google presentation public link here, so with one click it will open up in the browser and you can present.
+## Proposal Presentations
+Create your 2- to 3-slide presentation in [Google Slides][https://slides.google.com]. Then, import in into one of the two slide decks:
+
+[Martin section][https://docs.google.com/presentation/d/1EqE432gl3Narx8a2vZQKvchEmoYqMkzR3SrHFr5LiAg]
+[Sherman section][https://docs.google.com/presentation/d/1T7uZLQLm-umosUfEK9cp4VNGjUm8SUN1DCVTzlGvr2Q]
+
 
 <!-- Links -->
 [forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
