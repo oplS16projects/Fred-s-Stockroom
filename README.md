@@ -32,11 +32,14 @@ Your team will have two minutes to present. Create presentation with two or thre
 (Template follows. You may delete this line and all above it. Please edit the following template to create your report.)
 
 # Project Title: title here (10 words maximum)
-### Problem Statement
-Describe your problem, and why it is interesting. 
 
-### Problem Analysis
-Explain what approaches from class you will bring to bear on the problem. Be explicit and succinct.
+### Statement
+Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
+
+### Analysis
+Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
+
+The idea here is to identify what ideas from the class you will use in carrying out your project. 
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
@@ -58,15 +61,16 @@ Will it be interactive? Can you show it working? This project involves a live de
 
 ### Evaluation of Results
 How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be fantastic.
+If you include some kind of _quantitative analysis,_ that would be good.
 
 ## Work Plan and Schedule
-Explain how you will go from proposal to finished product. Write your general plan here. 
-There are three deliverable milestones to explicitly define, below. The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
+Explain how you will go from proposal to finished product. Write your plan here.
+
+There are three deliverable milestones to explicitly define, below.
+
+The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
 
 You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages, so take care in writing concrete steps for your schedule. 
-
-In this general plan, and in the deliverables below.
 
 ### First Milestone (04-13)
 What exactly will be turned in on this day? 
@@ -81,13 +85,18 @@ Here each group member gets a section where they, as an individual, detail what 
 * Remember that you must have prior written permission to work in groups of three (specifically, an approved `FP3` team declaration submission).
 * The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
 * The team lead has full partner implementation responsibilities also.
-* Specifically identify who is team lead.
+* Identify who is team lead.
 
-### Susan Scheme
+In the headings below, replace the silly names and GitHub handles with your actual ones.
+
+### Susan Scheme @susanscheme
 will write the....
 
-### Leonard Lambda
+### Leonard Lambda @lennylambda
 will work on...
+
+### Frank Functions @frankiefunk 
+Frank is team lead. Additionally, Frank will work on...   
 
 ## Proposal Presentations
 Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import them into one of the two slide decks:
