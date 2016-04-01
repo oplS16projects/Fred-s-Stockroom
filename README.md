@@ -1,12 +1,10 @@
 # FP4-proposal
 
-***Students: this document is actively being revised. All dates and info are subject to change.***
-
-Project Proposal includes these components:
+The project proposal includes these components:
 
 1. A repository for the team project
 2. A `README.md` file in this repository, which is the project plan
-3. A 3-slide slide show to be presented in class
+3. A 3-slide slide deck to be presented in class
 
 ## Due Dates
 * Wed 2016-04-06 at 12 noon (before class) (Martin section)
@@ -44,7 +42,7 @@ Remember, you can do some neat [formatting things with Markdown.][markdown]
 
 In case you missed it, here again is the [template file](template.md)
 
-## In-Class Presentation Instructions
+## In-Class Presentation 
 Teams will each deliver an in-class presentation. Your team will have two minutes to present.
 
 The presentation shall have exactly three slides:
@@ -59,11 +57,24 @@ The presentation shall have exactly three slides:
   * a different relevant image (optional)
 3. Architecture Diagram 
   * visual diagram showing the major components of the project
-  * also show external things that your project will connect to
+  * include external things that your project will connect to
   * include arrows showing flow of information
-  * _important:_ label each block with the GH username of the person who is primarily responsible for its creation
+  * internal components annotated with Racket libraries that they will use
+  * _important:_ annotate each block with the GH username of the person who is primarily responsible for its creation
 
-Make the slides in [Google Slides](gslides), and share the public-viewable link with Mark/Fred (exactly how TBD). The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
+Make the slides in [Google Slides][gslides].
+
+Then, import your deck into the correct whole-class slide deck:
+* [Martin section][martinslides]
+* [Sherman section][shermanslides]
+
+You and your teammates will give the presentation in class the day that this assignment is due.
+
+## Grading
+The proposal must be submitted on time to receive credit. Late submissions will not be accepted for credit.
+
+You personally must be present in class (and participate in the presentation when it is your turn) to receive credit for the presentation. If your teammates are there and you are not, they will receive presentation credit and you will not.
+
 
 <!-- Links -->
 [forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
