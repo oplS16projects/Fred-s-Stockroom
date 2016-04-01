@@ -3,6 +3,7 @@
 ***Students: this document is actively being revised. All dates and info are subject to change.***
 
 Project Proposal includes these components:
+
 1. A repository for the team project
 2. A `README.md` file in this repository, which is the project plan
 3. A 3-slide slide show to be presented in class
