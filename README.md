@@ -2,10 +2,14 @@
 
 ***Students: this document is actively being revised. All dates and info are subject to change.***
 
-Project Proposal is due Mon 2016-04-04 (for Mark's section, at least)
+Project Proposal includes these components:
+1. A repository for the team project
+2. A `README.md` file in this repository, which is the project plan
+3. A 3-slide slide show to be presented in class
 
-* Produce a plan for your final project, and prepare an in-class presentation.
-* Start your real project repository
+## Due Dates
+* Wed 2016-04-06 at 12 noon (before class) (Martin section)
+* Thu 2016-04-07 at 3:30p (before class) (Sherman section)
 
 Ask questions, as always, [on our discussion forum!][forum]
 
