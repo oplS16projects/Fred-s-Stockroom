@@ -47,7 +47,23 @@ In case you missed it, here again is the [template file](template.md)
 ## In-Class Presentation Instructions
 Teams will each deliver an in-class presentation. Your team will have two minutes to present.
 
-Create presentation exactly three slides. Make the slides in google drive, and share the public-viewable link with Mark/Fred (exactly how TBD). The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
+The presentation shall have exactly three slides:
+
+1. Title
+  * project title (10 words or fewer)
+  * your real names
+  * each real name followed by GitHub username
+  * a relevant image of some sort (optional)
+2. Overview
+  * a few short phrases describing the project
+  * a different relevant image (optional)
+3. Architecture Diagram 
+  * visual diagram showing the major components of the project
+  * also show external things that your project will connect to
+  * include arrows showing flow of information
+  * _important:_ label each block with the GH username of the person who is primarily responsible for its creation
+
+Make the slides in [Google Slides](gslides), and share the public-viewable link with Mark/Fred (exactly how TBD). The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
 
 <!-- Links -->
 [forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
