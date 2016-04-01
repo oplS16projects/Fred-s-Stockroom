@@ -2,7 +2,7 @@
 
 ***Students: this document is actively being revised. All dates and info are subject to change.***
 
-Project Proposal is due Mon 2016-04-04
+Project Proposal is due Mon 2016-04-04 (for Mark's section, at least)
 
 * Produce a plan for your final project, and prepare an in-class presentation.
 * Start your real project repository
@@ -30,18 +30,12 @@ The proposal should be no longer than necessary, but long enough to include crit
 
 Remember, you can do some neat [formatting things with Markdown.][markdown]
 
+In case you missed it, here again is the [template file](template.md)
+
 ## In-Class Presentation Instructions
-Teams will each deliver an in-class presentation. **Presentations will be Wednesday, April 8** (and Friday, April 10 as necessary). The presentation material is due on April 8 by 9 am for everybody. [See piazza for full schedule.][piazza]
+Teams will each deliver an in-class presentation.
 
-Your team will have two minutes to present. Create presentation with two or three slides. Make the slides in google drive, and share the public-viewable link at the bottom of this report. The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
-
-
-## Proposal Presentations
-Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import them into one of the two slide decks:
-
-* [Martin section][martinslides]
-* [Sherman section][shermanslides]
-
+Your team will have two minutes to present. Create presentation with two or three slides. Make the slides in google drive, and share the public-viewable link with Mark/Fred (exactly how TBD). The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
 
 <!-- Links -->
 [forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
