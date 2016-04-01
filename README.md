@@ -2,25 +2,31 @@
 
 ***Students: this document is actively being revised. All dates and info are subject to change.***
 
-Project Proposal is due Mon 2016-04-04 at 8am
+Project Proposal is due Mon 2016-04-04
 
-Produce a plan for your final project, and prepare an in-class presentation.
+* Produce a plan for your final project, and prepare an in-class presentation.
+* Start your real project repository
 
 Ask questions, as always, [on our discussion forum!][forum]
 
 ## Written Proposal Instructions
 
-Teams will submit ONE written proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be on github, as a pull request of this very file. 
+Teams will submit ONE written proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be the `README.md` file in your brand-new project repository, which you'll make. 
 
 You must start using GitHub collaboratively from this point forward. 
 
-Instructions to: create a new repo as part of the `oplS16projects` organization; add your teammates to it; make sure everyone contributes to your new `README.md` file which is your proposal.
+Instructions: 
+
+1. create a new repo as part of the `oplS16projects` organization; add your teammates to it
+2. Copy the content from the [template file](template.md) into your `README.md`
+3. Everyone on the team contributes their sections to your `README.md` file.
+4. Send Fred/Mark the link to your new repository (exactly how TBD)
+
+And now some detail on what to write _in_ the report.
 
 **Overall guidance:** *You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.*
 
 The proposal should be no longer than necessary, but long enough to include critical detail. Three pages is appropriate. Diagrams are welcome. 
-
-Below is a template proposal report.
 
 Remember, you can do some neat [formatting things with Markdown.][markdown]
 
@@ -29,74 +35,6 @@ Teams will each deliver an in-class presentation. **Presentations will be Wednes
 
 Your team will have two minutes to present. Create presentation with two or three slides. Make the slides in google drive, and share the public-viewable link at the bottom of this report. The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin. 
 
-(Template follows. You may delete this line and all above it. Please edit the following template to create your report.)
-
-# Project Title: title here (10 words maximum)
-
-### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
-
-### Analysis
-Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
-
-The idea here is to identify what ideas from the class you will use in carrying out your project. 
-
-### Data set or other source materials
-If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
-
-How will you convert that data into a form usable for your project?  
-
-Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
-
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
-
-### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
-
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
-
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
-
-Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
-
-### Evaluation of Results
-How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be good.
-
-## Work Plan and Schedule
-Explain how you will go from proposal to finished product. Write your plan here.
-
-There are three deliverable milestones to explicitly define, below.
-
-The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
-
-You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages, so take care in writing concrete steps for your schedule. 
-
-### First Milestone (04-13)
-What exactly will be turned in on this day? 
-
-### Second Milestone (04-21)
-What exactly will be turned in on this day? 
-
-## Group Responsibilities
-Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
-
-**Additional instructions for teams of three:** 
-* Remember that you must have prior written permission to work in groups of three (specifically, an approved `FP3` team declaration submission).
-* The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
-* The team lead has full partner implementation responsibilities also.
-* Identify who is team lead.
-
-In the headings below, replace the silly names and GitHub handles with your actual ones.
-
-### Susan Scheme @susanscheme
-will write the....
-
-### Leonard Lambda @lennylambda
-will work on...
-
-### Frank Functions @frankiefunk 
-Frank is team lead. Additionally, Frank will work on...   
 
 ## Proposal Presentations
 Create your 2- to 3-slide presentation in [Google Slides][gslides]. Then, import them into one of the two slide decks:
