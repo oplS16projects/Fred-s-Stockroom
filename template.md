@@ -30,20 +30,30 @@ Will it be interactive? Can you show it working? This project involves a live de
 How will you know if you are successful? 
 If you include some kind of _quantitative analysis,_ that would be good.
 
-## Work Plan and Schedule
-Explain how you will go from proposal to finished product. Write your plan here.
+## Architecture Diagram
+Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
+
+Create several paragraphs of narrative to explain the pieces and how they interoperate.
+
+## Schedule
+Explain how you will go from proposal to finished product. 
 
 There are three deliverable milestones to explicitly define, below.
 
 The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
 
-You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages, so take care in writing concrete steps for your schedule. 
+You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages.
 
-### First Milestone (04-13)
+Write concrete steps for your schedule to move from concept to working system. 
+
+### First Milestone (Fri Apr 15)
 What exactly will be turned in on this day? 
 
-### Second Milestone (04-21)
+### Second Milestone (Fri Apr 22)
 What exactly will be turned in on this day? 
+
+### Final Presentation (last week of semester)
+What additionally will be done in the last chunk of time?
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
