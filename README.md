@@ -24,7 +24,7 @@ Instructions:
   * Give it a name that you like—may be your real names, usernames, or project name
   * Add your teammates as collaborators (Settings > Collaborators & Teams > Add Collaborator)
 2. Copy the content from the [template file](template.md) into your `README.md`
-  * Do a “view raw” on the `template.md` file and then copy-paste into your repo's `README.md` edit view
+  * Click the “Raw” button on the `template.md` file and then copy-paste into your repo's `README.md` edit view
   * Save it
   * Then start editing it to be the real thing
 3. Everyone on the team contributes their sections to your `README.md` file.
