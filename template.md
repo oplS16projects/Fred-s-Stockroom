@@ -12,9 +12,10 @@ The idea here is to identify what ideas from the class you will use in carrying 
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
+Our data for live stock price is provided by Yahoo Finance. Other piece of data is ticker symbols for each company listed on NYSE which is provided by wikipedia.
 
 How will you convert that data into a form usable for your project?  
-We are using markets-graph.rkt library to graphically show live stock prices. The user can compare stock prices of two or more companies.
+We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
 Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
 
@@ -22,6 +23,7 @@ If you are using some other starting materails, explain what they are. Basically
 
 ### Deliverable and Demonstration
 Explain exactly what you'll have at the end. What will it be able to do at the live demo?
+HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices grpahically by reading stock charts.
 
 What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
 
