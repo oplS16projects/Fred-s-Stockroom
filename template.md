@@ -23,7 +23,7 @@ If you are using some other starting materails, explain what they are. Basically
 
 ### Deliverable and Demonstration
 Explain exactly what you'll have at the end. What will it be able to do at the live demo?
-HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices grpahically by reading stock charts.
+HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts.
 
 What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
 
