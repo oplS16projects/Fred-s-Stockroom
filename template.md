@@ -11,29 +11,15 @@ The idea here is to identify what ideas from the class you will use in carrying 
 ### Data set or other source materials
 Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
-Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
-
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
-
 ### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
-HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts.
-
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
-
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
-
-Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
+HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts. We'll run the live website for demonstration and the website will use the live data from Yahoo Finace. 
 
 ### Evaluation of Results
-How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be good.
 In order to verify the outcome we can compare our result with the data available online.
 
 ## Architecture Diagram
-Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
 
-Create several paragraphs of narrative to explain the pieces and how they interoperate.
+Coming...
 
 ## Schedule
 This project contains two parts, front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stock prices and data from [Yahoo Finance](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end will display stock prices and graph/chart so the user can compare.
