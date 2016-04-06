@@ -12,7 +12,7 @@ The idea here is to identify what ideas from the class you will use in carrying 
 
 ### Data set or other source materials
 
-Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph library to graphically display the live stock prices once the correct symbol is typed. We also use web-server-lib library to create a HTML base webpage. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
+Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph library to graphically display the live stock prices once the correct symbol is typed. We also use web-server-lib library to create a HTML based web page. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
 ### Deliverable and Demonstration
 
