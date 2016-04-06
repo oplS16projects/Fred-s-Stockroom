@@ -1,7 +1,6 @@
 # Project Title: Fred's StockRoom
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn?
 In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get current price of the stock.
 
 ### Analysis
@@ -10,11 +9,7 @@ Explain what approaches from class you will bring to bear on the project. Be exp
 The idea here is to identify what ideas from the class you will use in carrying out your project. 
 
 ### Data set or other source materials
-If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
-Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia.
-
-How will you convert that data into a form usable for your project?  
-We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
+Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
 Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
 
