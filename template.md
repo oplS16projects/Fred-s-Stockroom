@@ -41,24 +41,22 @@ Upload the architecture diagram you made for your slide presentation to your rep
 Create several paragraphs of narrative to explain the pieces and how they interoperate.
 
 ## Schedule
-Explain how you will go from proposal to finished product. 
-
-There are three deliverable milestones to explicitly define, below.
-
-The nature of deliverables depend on your project, but may include things like processed data ready for import, core algorithms implemented, interface design prototyped, etc. 
-
-You will be expected to turn in code, documentation, and data (as appropriate) at each of these stages.
-
-Write concrete steps for your schedule to move from concept to working system. 
+This project contain two parts. Front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stocks price and data from [Yahoo Finace](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end then will display stock price and graph so the user can compare.
 
 ### First Milestone (Fri Apr 15)
-What exactly will be turned in on this day? 
+We will use the library [web-server/insta](https://docs.racket-lang.org/web-server/run.html) to create:
+- [x] HTML webpage that allow user to type US stock symbols in to the form.
+- [x] HTML webpage should include the "+" function to allow users to compare more than two stocks.
+- [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
 
 ### Second Milestone (Fri Apr 22)
-What exactly will be turned in on this day? 
+We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-source/jeeve/markets.plt/1/2/planet-docs/manual/index.html) library to:
+- [x] Take US stock symbols from user input to negerate the data.
+- [x] Convert each data into graphical interface.
+- [x] Display data side-by-side for user to compare. 
 
 ### Final Presentation (last week of semester)
-What additionally will be done in the last chunk of time?
+If we have time, we want to improve the design of the webpage.
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
