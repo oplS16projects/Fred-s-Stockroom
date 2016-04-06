@@ -1,64 +1,59 @@
-# Project Title: Stracket
+# Project Title: Fred's StockRoom
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn?
 
-In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get the current price of the stock.
+In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get current price of the stock.
 
 ### Analysis
+
 Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
 
 The idea here is to identify what ideas from the class you will use in carrying out your project. 
 
 ### Data set or other source materials
-If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
-Our data for live stock price is provided by Yahoo Finance. Other piece of data is ticker symbols for each company listed on NYSE which is provided by wikipedia.
 
-How will you convert that data into a form usable for your project?  
-We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
-
-Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
-
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
+Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
 ### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
-HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts.
 
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
-
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
-
-Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
+HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts. We'll run the live website for demonstration and the website will use the live data from Yahoo Finace. 
 
 ### Evaluation of Results
-How will you know if you are successful? 
-If you include some kind of _quantitative analysis,_ that would be good.
+
+In order to verify the outcome we can compare our result with the data available online.
 
 ## Architecture Diagram
-Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
 
-Create several paragraphs of narrative to explain the pieces and how they interoperate.
+Coming soon...
 
 ## Schedule
-This project contain two parts. Front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stocks price and data from [Yahoo Finace](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end then will display stock price and graph so the user can compare.
+
+This project contains two parts, front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stock prices and data from [Yahoo Finance](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end will display stock prices and graph/chart so the user can compare.
 
 ### First Milestone (Fri Apr 15)
+
 We will use the library [web-server/insta](https://docs.racket-lang.org/web-server/run.html) to create:
-- [x] HTML webpage that allow user to type US stock symbols in to the form.
+- [x] HTML webpage that allow users to type US stock symbols in the form field.
 - [x] HTML webpage should include the "+" function to allow users to compare more than two stocks.
 - [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
 
 ### Second Milestone (Fri Apr 22)
+
 We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-source/jeeve/markets.plt/1/2/planet-docs/manual/index.html) library to:
 - [x] Take US stock symbols from user input to negerate the data.
 - [x] Convert each data into graphical interface.
 - [x] Display data side-by-side for user to compare. 
 
 ### Final Presentation (last week of semester)
-If we have time, we want to improve the design of the webpage.
+
+If we have time, we want to improve the UI of the front-end webpage.
 
 ## Group Responsibilities
+
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
+### Udit Bhansali @ubhansali
+Udit is gonna be responsible for creating the front-end of the webpage. This will deal with displaying live stock prices and graphs.
 
+### Krin Yongvongphaiboon @aboutkrin
+Krin will be focusing on setting up the back-end of the project. He will also overlook the integration of front-end with back-end.
