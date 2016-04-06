@@ -1,7 +1,8 @@
-# Project Title: title here (10 words maximum)
+# Project Title: Stracket
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
+Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn?
+In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get the current price of the stock.
 
 ### Analysis
 Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
@@ -12,6 +13,7 @@ The idea here is to identify what ideas from the class you will use in carrying 
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
 
 How will you convert that data into a form usable for your project?  
+We are using markets-graph.rkt library to graphically show live stock prices. The user can compare stock prices of two or more companies.
 
 Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
 
