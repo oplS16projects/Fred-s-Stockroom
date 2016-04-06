@@ -24,7 +24,7 @@ In order to verify the outcome we can compare our result with the data available
 
 ## Architecture Diagram
 
-Coming soon...
+[[https://github.com/oplS16projects/Krin-Udit/blob/master/fred.jpg]]
 
 ## Schedule
 
