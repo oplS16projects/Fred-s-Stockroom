@@ -1,9 +1,8 @@
-# Project Title: Stracket
+# Project Title: Fred's StockRoom
 
 ### Statement
 Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn?
-
-In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get the current price of the stock.
+In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get current price of the stock.
 
 ### Analysis
 Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
@@ -12,7 +11,7 @@ The idea here is to identify what ideas from the class you will use in carrying 
 
 ### Data set or other source materials
 If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
-Our data for live stock price is provided by Yahoo Finance. Other piece of data is ticker symbols for each company listed on NYSE which is provided by wikipedia.
+Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia.
 
 How will you convert that data into a form usable for your project?  
 We use markets-graph.rkt library to graphically display the live stock prices once the correct symbol is typed. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
@@ -34,6 +33,7 @@ Will it be interactive? Can you show it working? This project involves a live de
 ### Evaluation of Results
 How will you know if you are successful? 
 If you include some kind of _quantitative analysis,_ that would be good.
+In order to verify the outcome we can compare our result with the data available online.
 
 ## Architecture Diagram
 Upload the architecture diagram you made for your slide presentation to your repository, and include it in-line here.
@@ -41,11 +41,11 @@ Upload the architecture diagram you made for your slide presentation to your rep
 Create several paragraphs of narrative to explain the pieces and how they interoperate.
 
 ## Schedule
-This project contain two parts. Front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stocks price and data from [Yahoo Finace](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end then will display stock price and graph so the user can compare.
+This project contains two parts, front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stock prices and data from [Yahoo Finance](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end will display stock prices and graph/chart so the user can compare.
 
 ### First Milestone (Fri Apr 15)
 We will use the library [web-server/insta](https://docs.racket-lang.org/web-server/run.html) to create:
-- [x] HTML webpage that allow user to type US stock symbols in to the form.
+- [x] HTML webpage that allow users to type US stock symbols in the form field.
 - [x] HTML webpage should include the "+" function to allow users to compare more than two stocks.
 - [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
 
@@ -56,7 +56,7 @@ We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-sou
 - [x] Display data side-by-side for user to compare. 
 
 ### Final Presentation (last week of semester)
-If we have time, we want to improve the design of the webpage.
+If we have time, we want to improve the UI of the front-end webpage.
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
