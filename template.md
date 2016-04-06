@@ -24,7 +24,7 @@ In order to verify the outcome we can compare our result with the data available
 
 ## Architecture Diagram
 
-Coming...
+Coming soon...
 
 ## Schedule
 
