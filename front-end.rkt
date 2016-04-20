@@ -1,4 +1,4 @@
-#lang racket
+#lang web-server/insta
 
 (require web-server/formlets)
 (require web-server/servlet
@@ -6,21 +6,17 @@
  
 (define (start req)
  (response/xexpr
-   `(html (head (title "Fred's Stockroom")) ;Header
-          ;Page Title
-          (body (p "Fred's Stockroom"))
+   `(html (head (title "Fred's Stockroom")) ; Title
+          (link ((rel "stylesheet")
+                 (href "/static.css")
+                 (type "text/css")))
+          ;Body Title
+          (body (h3 "Fred's Stockroom"))
           ;Form
           (list
- '(div "Stock1" (input ([name "input_0"])))
- '(div "Stock2" (input ([name "input_1"]))))
+ '(div "Stock 1:" (input ([name "input_0"])))
+ '(div "Stock 2:" (input ([name "input_1"]))))
           ;Submit button
   (button  "Submit"))))
-
  
-(serve/servlet start)
-
-
-
-
-
- 
+(static-files-path "cssfile")
