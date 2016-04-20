@@ -1,84 +1,59 @@
-# FP4-proposal
+# Project Title: Fred's StockRoom
 
-The project proposal includes these components:
+### Statement
 
-1. A repository for the team project
-2. A `README.md` file in this repository, which is the project plan
-3. A 3-slide slide deck to be presented in class
+In our earlier discussions, we began thinking about how we can get live stock prices from Dow Jones. To ensure this, we have designed a GUI interface that allows a user to enter ticker symbols and get current price of the stock.
 
-## Due Dates
-* Wed 2016-04-06 at 12 noon (before class) (Martin section)
-* Thu 2016-04-07 at 3:30p (before class) (Sherman section)
+### Analysis
 
-Ask questions, as always, [on our discussion forum!][forum]
+Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
 
-## Instructions
+The idea here is to identify what ideas from the class you will use in carrying out your project. 
 
-Teams will submit a single proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be the `README.md` file in your brand-new project repository, which you'll make. 
+### Data set or other source materials
 
-You must start using GitHub collaboratively from this point forward. 
+Our data for live stock prices is provided by Yahoo Finance. Other piece of data is the ticker symbols for each company listed on NYSE which is provided by wikipedia. We use markets-graph library to graphically display the live stock prices once the correct symbol is typed. We also use web-server-lib library to create a HTML based web page. The user can compare stock prices of two or more companies and learn about the trend, price wave, recent spikes and many other things. 
 
-Instructions: 
+### Deliverable and Demonstration
 
-1. Create a new repo as part of the `oplS16projects` organization
-  * Give it a name that you like—may be your real names, usernames, or project name
-  * Add your teammates as collaborators (Settings > Collaborators & Teams > Add Collaborator)
-2. Copy the content from the [template file](template.md) into your `README.md`
-  * Click the “Raw” button on the `template.md` file and then copy-paste into your repo's `README.md` edit view
-  * Save it
-  * Then start editing it to be the real thing
-3. Everyone on the team contributes their sections to your `README.md` file.
-  * Use GitHub's collaboration features to make sure that each team member contributes meaningful content to the file
-  * At the absolute minimum, respective team members must have commits that show they have authored the section describing their planned contributions
-4. Send Fred/Mark the link to your new repository (exactly how TBD)
+HTML webpage which will allow users to lookup live stock prices of multiple companies. The user can also compare stock prices graphically by reading stock charts. We'll run the live website for demonstration and the website will use the live data from Yahoo Finace. 
 
-And now some detail on what to write _in_ the report.
+### Evaluation of Results
 
-**Overall guidance:** *You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.*
+In order to verify the outcome we can compare our result with the data available online.
 
-The proposal should be no longer than necessary, but long enough to include critical detail. Diagrams are welcome. 
+## Architecture Diagram
 
-Remember, you can do some neat [formatting things with Markdown.][markdown]
+![alt tag](https://github.com/oplS16projects/Krin-Udit/blob/master/fred.jpg)
 
-In case you missed it, here again is the [template file](template.md)
+## Schedule
 
-## In-Class Presentation 
-Teams will each deliver an in-class presentation. Your team will have two minutes to present.
+This project contains two parts, front-end and back-end. Front-end will be a HTML webpage that will take one or more US stock symbols from the user. The back-end will generate the live stock prices and data from [Yahoo Finance](http://finance.yahoo.com/stock-center/) then displays graphic quotes in rows and columns disposition. The front-end will display stock prices and graph/chart so the user can compare.
 
-The presentation shall have exactly three slides:
+### First Milestone (Fri Apr 15)
 
-1. Title
-  * project title (10 words or fewer)
-  * your real names
-  * each real name followed by GitHub username
-  * a relevant image of some sort (optional)
-2. Overview
-  * a few short phrases describing the project
-  * a different relevant image (optional)
-3. Architecture Diagram 
-  * visual diagram showing the major components of the project
-  * include external things that your project will connect to
-  * include arrows showing flow of information
-  * internal components annotated with Racket libraries that they will use
-  * _important:_ annotate each block with the GH username of the person who is primarily responsible for its creation
+We will use the library [web-server/insta](https://docs.racket-lang.org/web-server/run.html) to create:
+- [x] HTML webpage that allow users to type US stock symbols in the form field.
+- [x] HTML webpage should include the "+" function to allow users to compare more than two stocks.
+- [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
 
-Make the slides in [Google Slides][gslides].
+### Second Milestone (Fri Apr 22)
 
-Then, import your deck into the correct whole-class slide deck:
-* [Martin section][martinslides]
-* [Sherman section][shermanslides]
+We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-source/jeeve/markets.plt/1/2/planet-docs/manual/index.html) library to:
+- [x] Take US stock symbols from user input to negerate the data.
+- [x] Convert each data into graphical interface.
+- [x] Display data side-by-side for user to compare. 
 
-You and your teammates will give the presentation in class the day that this assignment is due.
+### Final Presentation (last week of semester)
 
-## Grading
-The proposal must be submitted on time to receive credit. Late submissions will not be accepted for credit.
+If we have time, we want to improve the UI of the front-end webpage.
 
-You personally must be present in class (and participate in the presentation when it is your turn) to receive credit for the presentation. If your teammates are there and you are not, they will receive presentation credit and you will not.
+## Group Responsibilities
 
+Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
-<!-- Links -->
-[forum]: https://groups.google.com/forum/#!forum/uml-opl-spr16
-[markdown]: https://help.github.com/articles/markdown-basics/
-[gslides]:https://slides.google.com
-[martinslides]:https://docs.google.com/presentation/d/1EqE432gl3Narx8a2vZQKvchEmoYqMkzR3SrHFr5LiAg
-[shermanslides]:https://docs.google.com/presentation/d/1T7uZLQLm-umosUfEK9cp4VNGjUm8SUN1DCVTzlGvr2Q
+### Udit Bhansali @ubhansali
+Udit is gonna be responsible for creating the front-end of the webpage. This will deal with displaying live stock prices and graphs.
+
+### Krin Yongvongphaiboon @aboutkrin
+Krin will be focusing on setting up the back-end of the project. He will also overlook the integration of front-end with back-end.
