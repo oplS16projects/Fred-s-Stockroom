@@ -38,7 +38,8 @@ We will use the library [web-server/insta](https://docs.racket-lang.org/web-serv
 - [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
 
 #### Milestone 1 Update
-So Udit and I was able to create a simple Racket webpage as we expected. 
+So we able to create a simple Racket webpage as we expected. 
+
 Krin: 
 Krin created the front-end.rkt which is a web form that allow user to enter 4 stock symbols along with the submit button. When user hit submit button, it will return the input into a list which allow me to use that into the next process, jeeve/markets. 
 
