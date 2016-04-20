@@ -52,6 +52,8 @@ After received the front-end.rkt, Udit modified the interface of the form by cre
                  (type "text/css")))
 ```
 
+![alt-tag](https://github.com/oplS16projects/Krin-Udit/blob/master/Milestone%201.png?raw=true)
+
 Right now we followed the schudle as we expected. The only thing that we haven't done is "HTML webpage should include the "+" function to allow users to compare more than two stocks.". We will update this feature later on.
 
 ### Second Milestone (Fri Apr 22)
