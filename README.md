@@ -75,3 +75,4 @@ Udit is gonna be responsible for creating the front-end of the webpage. This wil
 ### Krin Yongvongphaiboon @aboutkrin
 Krin will be focusing on setting up the back-end of the project. He will also overlook the integration of front-end with back-end.
 
+
