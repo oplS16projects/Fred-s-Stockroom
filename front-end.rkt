@@ -9,6 +9,9 @@
 (define (build-request-page stock1 stock2 k-url)
  (response/xexpr
    `(html (head (title "Fred's Stockroom")) ; Title
+          (link ((rel "stylesheet")
+          (href "/static.css")
+          (type "text/css")))
           ;Body Title
           (body (h3 "Fred's Stockroom"))
           ;Form
