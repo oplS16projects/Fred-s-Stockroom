@@ -34,15 +34,34 @@ This project contains two parts, front-end and back-end. Front-end will be a HTM
 
 We will use the library [web-server/insta](https://docs.racket-lang.org/web-server/run.html) to create:
 - [x] HTML webpage that allow users to type US stock symbols in the form field.
-- [x] HTML webpage should include the "+" function to allow users to compare more than two stocks.
+- [ ] HTML webpage should include the "+" function to allow users to compare more than two stocks.
 - [x] HTML webpage should have a search button that will allow user to look up the stock symbols using the name of the company.
+
+#### Milestone 1 Update
+So we are able to create a simple Racket webpage as we expected. 
+
+Krin: 
+Krin created the front-end.rkt which is a web form that allow user to enter 4 stock symbols along with the submit button. When user hit submit button, it will return the input into a list which allow me to use that into the next process, jeeve/markets. 
+
+Udit:
+After received the front-end.rkt, Udit modified the interface of the form by created a sud-directory contain a CSS file that will intergrated with the form by using 
+
+```
+(link ((rel "stylesheet")
+                 (href "/test-static.css")
+                 (type "text/css")))
+```
+
+![alt-tag](https://github.com/oplS16projects/Krin-Udit/blob/master/Milestone%201.png?raw=true)
+
+Right now we followed the schudle as we expected. The only thing that we haven't done is "HTML webpage should include the "+" function to allow users to compare more than two stocks.". We will update this feature later on.
 
 ### Second Milestone (Fri Apr 22)
 
 We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-source/jeeve/markets.plt/1/2/planet-docs/manual/index.html) library to:
-- [x] Take US stock symbols from user input to negerate the data.
-- [x] Convert each data into graphical interface.
-- [x] Display data side-by-side for user to compare. 
+- [ ] Take US stock symbols from user input to negerate the data.
+- [ ] Convert each data into graphical interface.
+- [ ] Display data side-by-side for user to compare. 
 
 ### Final Presentation (last week of semester)
 
@@ -57,3 +76,5 @@ Udit is gonna be responsible for creating the front-end of the webpage. This wil
 
 ### Krin Yongvongphaiboon @aboutkrin
 Krin will be focusing on setting up the back-end of the project. He will also overlook the integration of front-end with back-end.
+
+
