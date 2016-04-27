@@ -73,6 +73,14 @@ Udit Bhansali <a href="https://github.com/ubhansali" class="user-mention">@ubhan
    ((<span class="pl-s"><span class="pl-pds">"</span>display-data<span class="pl-pds">"</span></span>) #:method <span class="pl-s"><span class="pl-pds">"</span>post<span class="pl-pds">"</span></span>  display-data)
    (<span class="pl-k">else</span> get-first)))</pre></div>
 
+<h4>
+<a id="udit" class="anchor" href="#udit" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Udit</h4>
+
+<p>This little snippet of code is to extract a single web form value from a set of bindings. This prevents previous inputs from being perpetuated and keeps each stock symbol isolated. Initially, we had trouble passing the id from the form as I had no idea how the Racket's internal procedures actually link the web pages, but since I am on the higher side of the abstraction, I don’t need to worry about it.</p>
+
+<div class="highlight highlight-source-scheme"><pre>(<span class="pl-k">define</span> <span class="pl-smi">stock1-data</span> (extract-binding/single <span class="pl-c1">'stock1</span> (request-bindings req)))
+(<span class="pl-k">define</span> <span class="pl-smi">stock2-data</span> (extract-binding/single <span class="pl-c1">'stock2</span> (request-bindings req)))</pre></div>
+
 <h2>
 <a id="how-to-run" class="anchor" href="#how-to-run" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to run</h2>
 
