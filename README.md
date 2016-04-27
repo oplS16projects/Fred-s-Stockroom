@@ -6,9 +6,7 @@ In our earlier discussions, we began thinking about how we can get live stock pr
 
 ### Analysis
 
-Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
-
-The idea here is to identify what ideas from the class you will use in carrying out your project. 
+***Data modeling*** is used to define and analyze data requirements needed to support the market graph. Higher-order function is used for ***Abstraction*** where functions produce other functions when calling URL-dispatch.
 
 ### Data set or other source materials
 
@@ -59,9 +57,11 @@ Right now we followed the schudle as we expected. The only thing that we haven't
 ### Second Milestone (Fri Apr 22)
 
 We will then, use the [jeeve/markets](https://planet.racket-lang.org/package-source/jeeve/markets.plt/1/2/planet-docs/manual/index.html) library to:
-- [ ] Take US stock symbols from user input to negerate the data.
-- [ ] Convert each data into graphical interface.
-- [ ] Display data side-by-side for user to compare. 
+- [x] Take US stock symbols from user input to negerate the data.
+- [x] Convert each data into graphical interface.
+- [x] Display data side-by-side for user to compare. 
+
+Updated: It took us quite a bit to figure out a way to take user input from webform and pass it into another library. At the end we're able to extract the user input into string, then we create a list of string to be albe to call ***market-dashboard***
 
 ### Final Presentation (last week of semester)
 
