@@ -49,7 +49,7 @@
   (define stock2-data (extract-binding/single 'stock2 (request-bindings req)))
 
   ;; Setting coordinate and time frame for graph
-  (parameterize ([delta-x (* 2 3600)] ;10 mins on x axis
+  (parameterize ([delta-x (* 2 800)] ;10 mins on x axis
                [delta-y 0.01]) ;1% on y axis
    ;; Calling the local library and pass the data to display the graph
   (markets-dashboard (list (list stock1-data) (list stock2-data)))))
