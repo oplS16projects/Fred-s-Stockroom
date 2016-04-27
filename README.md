@@ -72,9 +72,9 @@ If we have time, we want to improve the UI of the front-end webpage.
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
 
 ### Udit Bhansali @ubhansali
-Udit is gonna be responsible for creating the front-end of the webpage. This will deal with displaying live stock prices and graphs.
+Udit is gonna be responsible for webpage UI. This will deal with displaying live stock prices and graphs.
 
 ### Krin Yongvongphaiboon @aboutkrin
-Krin will be focusing on setting up the back-end of the project. He will also overlook the integration of front-end with back-end.
+Krin will be focusing on setting up the code for the front-end and back-end of the project. He will also overlook the integration of front-end with back-end.
 
 
